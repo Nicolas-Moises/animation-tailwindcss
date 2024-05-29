@@ -2,7 +2,7 @@ import React from 'react'
 import Button from './button'
 import Image from 'next/image'
 import { AnimatedOnScroll } from './animated-on-scroll'
-
+// test
 const GetApp = () => {
   return (
     <section className="flexCenter w-full flex-col pb-[100px]">
